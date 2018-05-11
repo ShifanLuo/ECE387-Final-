@@ -1,4 +1,4 @@
-# ECE387-Final-
+# ECE387-Individual-Final
 Ultrasonic Radar
 
 ## Getting Started
